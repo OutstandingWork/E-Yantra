@@ -1,4 +1,4 @@
-#Basic pointers to keep in mind before going through the code
+# Basic pointers to keep in mind before going through the code
 check about nodes in ros and rosrun commands
 
 commands are rosnode,rosrun,rostopic (should check about possible info about it from pressing tab key twice).
